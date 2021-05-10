@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/crystalpro_bg.qm</file>
+        <file alias="ca">locale/crystalpro_ca.qm</file>
+        <file alias="cs">locale/crystalpro_cs.qm</file>
+        <file alias="da">locale/crystalpro_da.qm</file>
+        <file alias="de">locale/crystalpro_de.qm</file>
+        <file alias="en">locale/crystalpro_en.qm</file>
+        <file alias="en_US">locale/crystalpro_en_US.qm</file>
+        <file alias="es">locale/crystalpro_es.qm</file>
+        <file alias="fi">locale/crystalpro_fi.qm</file>
+        <file alias="fr_FR">locale/crystalpro_fr_FR.qm</file>
+        <file alias="it">locale/crystalpro_it.qm</file>
+        <file alias="ja">locale/crystalpro_ja.qm</file>
+        <file alias="ko_KR">locale/crystalpro_ko_KR.qm</file>
+        <file alias="nl">locale/crystalpro_nl.qm</file>
+        <file alias="pl">locale/crystalpro_pl.qm</file>
+        <file alias="pt">locale/crystalpro_pt.qm</file>
+        <file alias="pt_BR">locale/crystalpro_pt_BR.qm</file>
+        <file alias="ro_RO">locale/crystalpro_ro_RO.qm</file>
+        <file alias="ru">locale/crystalpro_ru.qm</file>
+        <file alias="sk">locale/crystalpro_sk.qm</file>
+        <file alias="sv">locale/crystalpro_sv.qm</file>
+        <file alias="tr">locale/crystalpro_tr.qm</file>
+        <file alias="uk">locale/crystalpro_uk.qm</file>
+        <file alias="zh_CN">locale/crystalpro_zh_CN.qm</file>
+        <file alias="zh_TW">locale/crystalpro_zh_TW.qm</file>
+    </qresource>
+</RCC>

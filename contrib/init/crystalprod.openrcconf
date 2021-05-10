@@ -1,0 +1,26 @@
+# /etc/conf.d/crystalprod: config file for /etc/init.d/crystalprod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/crystalpro/crystalpro.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/crystalprod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/crystalprod.pid"
+
+# Where to write crystalprod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/crystalprod"
+
+# User and group to own crystalprod process
+#BITCOIND_USER="crystalpro"
+#BITCOIND_GROUP="crystalpro"
+
+# Path to crystalprod executable
+#BITCOIND_BIN="/usr/bin/crystalprod"
+
+# Nice value to run crystalprod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -360,9 +360,9 @@ void OverviewPage::SetLinks()
     ui->labelLinks3->setText("Block Explorer:");
     ui->labelLinks6->setText("Github:");
 
-    ui->labelLinksUrl1->setText("<a href=\"https://www.crystalpro.org\">https://www.crystalpro.org</a>");
-    ui->labelLinksUrl2->setText("<a href=\"https://crystalpro.org/go/whitepaper.pdf\">https://crystalpro.org/go/whitepaper.pdf</a>");
-    ui->labelLinksUrl3->setText("<a href=\"http://explorer.crystalpro.network\">http://explorer.crystalpro.network</a>");
+    ui->labelLinksUrl1->setText("<a href=\"https://www.crystalpro.io/\">https://www.crystalpro.io</a>");
+    ui->labelLinksUrl2->setText("<a href=\"https://www.crystalpro.io/go/whitepaper.pdf\">https://www.crystalpro.io/go/whitepaper.pdf</a>");
+    ui->labelLinksUrl3->setText("<a href=\"http://explorer.https://www.crystalpro.io\">http://explorer.https://www.crystalpro.io</a>");
     ui->labelLinksUrl6->setText("<a href=\"http://github.com/crystalpro-official\">http://github.com/crystalpro-official</a>");
 }
 

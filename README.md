@@ -7,4 +7,4 @@
 #### Algorithm: - *Quark-hash*
 #### Masternode collateral - *2.500 CRP*  
 #### Features: - *SwiftTX, budget, treausury and masternode governance is enabled*
-#### RPC Port: - *3105*
+#### RPC Port: - * *
